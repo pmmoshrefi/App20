@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Java HTML 2022 web output</h1>
+<h1>New View</h1>
 </body>
 </html>
